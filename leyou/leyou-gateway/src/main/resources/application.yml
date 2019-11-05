@@ -11,4 +11,6 @@ eureka:
 zuul:
   prefix: /api
   routes:
-   item-service: /item/**
+   item-service:
+    path: /item/**
+    serviceId: item-service

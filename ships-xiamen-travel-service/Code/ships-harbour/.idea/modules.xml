@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ships-harbour.iml" filepath="$PROJECT_DIR$/ships-harbour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cruise/ships-harbour-ship/ships-harbour-ship.iml" filepath="$PROJECT_DIR$/cruise/ships-harbour-ship/ships-harbour-ship.iml" />
+    </modules>
+  </component>
+</project>
